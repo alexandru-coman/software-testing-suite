@@ -1,5 +1,7 @@
 # Software Testing Suite
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 A Java project focused on systematic unit testing, code coverage, mutation testing, and AI-assisted test generation.
 
 ## Project overview
@@ -70,3 +72,7 @@ It validates required parameters, rejects invalid intervals, detects overlaps, a
 
 - [Project presentation](./prezentare.pptx)
 - [Demo video](https://youtu.be/kFzvszkvodQ)
+
+## License
+
+This project is released under the [MIT License](./LICENSE).
